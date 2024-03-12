@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Mar 2024 02:00:30 at https://tramites.saren.gob.ve/qr/1626350d430be04f1543a2ec116f244e16a10c2f931739cbd03da50d5082cdb3 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "es, *" https://tramites.saren.gob.ve/qr/1626350d430be04f1543a2ec116f244e16a10c2f931739cbd03da50d5082cdb3 -O1 "E:\paginas clon\saren3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 35 links scanned, 34 files written (2274889 bytes overall) [621902 bytes received at 29614 bytes/sec], 2142403 bytes transferred using HTTP compression in 27 files, ratio 21%
+(No errors, 0 warnings, 0 messages)
